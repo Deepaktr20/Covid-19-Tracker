@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Header{
+    text-align: center;
+    justify-content: center;
+    height: 60px;
+    background-color: blue;
+    color: white;
+}
+.Footer{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: orange;
+    height: 60px;
+}
+.Main{
+    text-align: center;
+    padding: 30px;
+}
